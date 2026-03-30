@@ -143,3 +143,24 @@ An AI-powered chatbot designed to assess pneumonia risk based on user-reported s
 # 📌 Conclusion
 
 This system demonstrates how combining multiple deep learning models with explainable AI and conversational interfaces can create a comprehensive, intelligent medical diagnosis platform. It bridges the gap between raw model predictions and practical, user-friendly healthcare solutions.
+
+
+
+---
+
+## 👤 Author
+
+**Vamsi Krishna Gondu**
+
+AI Research Aspirant
+
+B.Tech Computer Science and Engineering, Specialized in Artificial Intelligence & Intelligent Process Automation
+
+KL University, India
+
+
+
+---
+## License
+
+This project is released under the MIT License, allowing open use and modification with proper attribution.
